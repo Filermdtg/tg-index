@@ -88,6 +88,8 @@ python3 -m app
 
 A detailed and beginner friendly guide on how to deploy this project on a free instance of <https://repl.it> can be found [here](./repl-config/replit-deploy-guide.md).
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MDROBOT512/tg-index)
+
 ## Contributions
 
 Contributions are welcome.
